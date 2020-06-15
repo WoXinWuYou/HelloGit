@@ -16,5 +16,6 @@ public class HelloWorld {
 		System.out.println("git-2020-6-14 10:46:09！");
 		System.out.println("eclipse-2020-6-14 10:45:23！");
 		System.out.println("eclipse-2020-6-14 14:29:10！");
+		System.out.println("git-2020-6-14 14:29:40！");
 	}
 }
